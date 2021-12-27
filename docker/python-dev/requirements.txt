@@ -1,0 +1,10 @@
+black
+flake8
+pylint
+pylint-fail-under
+pytest
+pytest-cov
+pytest-dependency
+rope
+tox
+mypy
